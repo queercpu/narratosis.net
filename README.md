@@ -1,2 +1,2 @@
 # narratosis.net
-blog
+blog for cpu
