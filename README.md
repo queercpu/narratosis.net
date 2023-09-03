@@ -1,0 +1,2 @@
+# narratosis.net
+blog
